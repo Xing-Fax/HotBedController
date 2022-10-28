@@ -43,7 +43,7 @@
 
 ##### 打样说明:
 
-使用CSPS To ATX\Schematic\Gerber文件夹内的Gerber文件即可打样，主板为双层PCB，无特殊工艺。热床需要采用铝基板工艺，整板开窗喷锡
+使用Schematic\Gerber文件夹内的Gerber文件即可打样，主板为双层PCB，无特殊工艺。热床需要采用铝基板工艺，整板开窗喷锡
 
 ##### 主板固件:
 
