@@ -1,4 +1,4 @@
-![Cover](Image\Cover.png)
+![Cover](Image/Cover.png)
 
 ## 热床控制器
 
@@ -37,7 +37,7 @@
 
 ##### 设计说明：
 
-![Schematic](Image\Schematic.png)
+![Schematic](Image/Schematic.png)
 
 具体可参见Schematic\HotPlate REV1.0.pdf
 
