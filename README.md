@@ -39,7 +39,7 @@
 
 ![Schematic](Image\Schematic.png)
 
-具体可参见CSPS To ATX\Schematic\HotPlate REV1.0.pdf
+具体可参见Schematic\HotPlate REV1.0.pdf
 
 ##### 打样说明:
 
@@ -47,7 +47,7 @@
 
 ##### 主板固件:
 
-在CSPS To ATX\HotBedController文件夹内包含此项目的所有代码，基于 PlatformIO 平台
+项目文件夹内包含此项目的所有代码，基于 PlatformIO 平台
 
 ##### 其他:
 
