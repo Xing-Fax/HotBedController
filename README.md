@@ -42,7 +42,9 @@
 
 ![ScreenDriver](Image/ScreenDriver.jpg)
 
-MOSFET采用了AOD4184，40V，50A，足以应对加热板控制，防止MOSFET击穿对主板照成的损坏，所以采用了光耦隔离驱动![MOSFET](Image\MOSFET.png)
+MOSFET采用了AOD4184，40V，50A，足以应对加热板控制，防止MOSFET击穿对主板照成的损坏，所以采用了光耦隔离驱动
+
+![MOSFET](Image/MOSFET.png)
 
 最重要的温度检测方面采用了MAX6675，该芯片具有冷端补偿以及将K型热带偶转数字化，具备12位ADC的输出，采样精度位0.25°C，测温范围0 - 1024°C
 
