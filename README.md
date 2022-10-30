@@ -4,7 +4,7 @@
 
 最近心血来潮的一个项目，也是学习嵌入式开始路程上的一个小Demo，同时可以帮助我轻松的焊接0805、0603、QFP以及BGA封装类的贴片元件，项目目前还在完善中，后续会添加更多功能
 
-![Controller](Image\Controller.jpg)
+![Controller](Image/Controller.jpg)
 
 ## 配置
 
@@ -36,23 +36,23 @@
 
 屏幕方面采用了0.91寸的OLED屏幕12864驱动SPI总线，用于呈现数据
 
-![0.91OLDE](Image\0.91OLDE.png)
+![0.91OLDE](Image/0.91OLDE.png)
 
-![ScreenDriver](Image\ScreenDriver.jpg)
+![ScreenDriver](Image/ScreenDriver.jpg)
 
 MOSFET采用了AOD4184，40V，50A，足以应对加热板控制，防止MOSFET击穿对主板照成的损坏，所以采用了光耦隔离驱动![MOSFET](Image\MOSFET.png)
 
 最重要的温度检测方面采用了MAX6675，该芯片具有冷端补偿以及将K型热带偶转数字化，具备12位ADC的输出，采样精度位0.25°C，测温范围0 - 1024°C
 
-![MAX6675](Image\MAX6675.png)
+![MAX6675](Image/MAX6675.png)
 
-具体可参见Schematic\HotPlate REV1.0.pdf
+具体可参见Schematic/HotPlate REV1.0.pdf
 
 ##### 打样说明:
 
 使用Schematic\Gerber文件夹内的Gerber文件即可打样，主板为双层PCB，无特殊工艺。热床需要采用铝基板工艺，整板开窗喷锡
 
-![HotBed](D:\HotBedController\Image\HotBed.jpg)
+![HotBed](Image/HotBed.jpg)
 
 ##### 主板固件:
 
