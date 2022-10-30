@@ -12,7 +12,7 @@
 - 2 * 5557 2P插孔(输入/输出)
 - XH2.45插孔(连接T型热电偶)
 - Type-C串口调试
-- 2.4Ghz WiFi 802.11 b/g/n
+- 2.4GHz WiFi 802.11 b/g/n
 - 蓝牙 v4.2 BR/EDR 和 BLE
 - 2 * Xtensa®32位LX6微处理器
 - 200W发热板，24V/8A
